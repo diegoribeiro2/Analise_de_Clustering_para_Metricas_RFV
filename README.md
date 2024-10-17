@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste projeto, simulei uma empresa de e-commerce que busca entender melhor o comportamento de seus clientes para personalizar suas campanhas de marketing. Para isso, utilizei uma base de dados com informações sobre clientes, produtos e transações realizadas entre 2010 e 2011. O objetivo é agrupar os clientes em clusters com base em seu comportamento de compra, identificando padrões e características em comum, como:
+Neste projeto, eu simulei o caso de uma empresa de e-commerce que busca entender melhor o comportamento de seus clientes para personalizar suas campanhas de marketing. Para isso, utilizei uma base de dados com informações sobre clientes, produtos e transações realizadas entre 2010 e 2011. O objetivo é agrupar os clientes em clusters com base em seu comportamento de compra, identificando padrões e características em comum, como:
 
 - Clientes que compram os mesmos produtos.
 - Clientes que possuem a mesma frequência de compras.
