@@ -25,8 +25,6 @@ Os dados foram obtidos a partir de um conjunto de dados disponível no Kaggle, c
 | CustomerID   | Identificação do cliente                      | Int     |
 | Country      | País de origem da transação                  | String  |
 
-**Atenção:** As datas estão no formato MM/DD/YYYY HH:mm:ss; existem dados nulos que precisam ser tratados antes da análise. Os códigos de identificação devem ser tratados como categóricos, e não como grandezas numéricas.
-
 ## Etapas de Desenvolvimento
 
 ### Etapa 01: Análise Exploratória dos Dados
